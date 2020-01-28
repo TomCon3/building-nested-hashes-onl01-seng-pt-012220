@@ -26,5 +26,5 @@ def bonus
   
 
  
-  puts epic_tragedy
+  epic_tragedy
 end
